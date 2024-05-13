@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libAstar_so.so -o lib/libAstar_so.so CMakeFiles/Astar_so.dir/src/Node.cpp.o CMakeFiles/Astar_so.dir/src/main.cpp.o CMakeFiles/Astar_so.dir/src/myAstar.cpp.o 
